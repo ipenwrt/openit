@@ -1,5 +1,6 @@
 # 🍀 openit
 
+<p align="center">
     <img src="./images/logo.PNG" alt="Logo" width="300" />
 
 ## 简介
