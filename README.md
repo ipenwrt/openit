@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ipenwrt/openit">
-    <img src="./images/logo.png" alt="Logo" width="300" />
+    <img src="./images/logo.PNG" alt="Logo" width="300" />
 
 ## 简介
 一个开放的订阅库，为了自由的隐私
