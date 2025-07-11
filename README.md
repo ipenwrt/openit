@@ -1,7 +1,7 @@
 # 🍀 openit
 
 <p align="center">
-  <a href="https://github.com/v2clash/openit">
+  <a href="https://github.com/ipenwrt/openit">
     <img src="./logo.png" alt="Logo" width="300" />
 
 ## 简介
