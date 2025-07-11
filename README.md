@@ -1,6 +1,6 @@
 # 🍀 openit
 
-# <img align=left src="./images/logo.PNG" width=100 height=100> Openit  
+    <img src="./logo.png" alt="Logo" width="300" />
 <h6> Powered by <font color="green">Openit PCRS</font></h6>
 
 ## 简介
