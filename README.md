@@ -1,6 +1,6 @@
-# Openit
+# 🍀 openit
 
-# <img align=left src="https://gitlab.com/ipenwrt/openit/-/raw/main/images/logo.PNG" width=100 height=100> Openit  
+# <img align=left src="./images/logo.PNG" width=100 height=100> Openit  
 <h6> Powered by <font color="green">Openit PCRS</font></h6>
 
 ## 简介
