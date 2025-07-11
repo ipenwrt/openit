@@ -1,7 +1,5 @@
 # 🍀 openit
 
-<p align="center">
-  <a href="https://github.com/ipenwrt/openit">
     <img src="./images/logo.PNG" alt="Logo" width="300" />
 
 ## 简介
